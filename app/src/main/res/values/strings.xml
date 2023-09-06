@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Giphy App</string>
+    <string name="api_key">yours-api-key</string>
+    <string name="query">gifs</string>
+    <string name="limit">10</string>
+    <string name="offset">0</string>
+    <string name="rating">g</string>
+    <string name="lang">en</string>
+</resources>
